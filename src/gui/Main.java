@@ -626,7 +626,7 @@ public class Main extends javax.swing.JFrame {
         headerLabel.setForeground(new java.awt.Color(254, 252, 243));
         headerLabel.setText("RAINFALL PREDICTION APP");
 
-        bmkgLogo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Logo BMKG.png"))); // NOI18N
+        bmkgLogo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Srmlogo.png"))); // NOI18N
 
         unsriLogo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Universitas-Sriwijaya-Logo.png"))); // NOI18N
 
